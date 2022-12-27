@@ -1,0 +1,10 @@
+{
+  "name": "Exhale",
+  "description": "This music track appears is from the pixel platformer; Celeste. Appears in the closing credits of the game ",
+  "author": "ObsoleteMark",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
