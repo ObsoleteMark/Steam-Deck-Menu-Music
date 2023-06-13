@@ -1,0 +1,10 @@
+{
+  "name": "Silent Hill 2 Soundpack",
+  "description": "UI Sounds from Silent Hill 2 Menus",
+  "author": "ObsoleteMark",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": false,
+  "ignore": [],
+  "mappings": {}
+}
